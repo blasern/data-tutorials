@@ -1,0 +1,14 @@
+inverter_id,site,capacity_kwp
+INV01,Farm,5.0
+INV02,Farm,5.0
+INV03,School,10.0
+INV04,School,10.0
+INV05,Warehouse,20.0
+INV06,Warehouse,20.0
+INV07,Factory,50.0
+INV08,Factory,50.0
+INV09,Home A,8.0
+INV10,Home B,8.0
+INV11,Solar park,100.0
+INV12,Solar park,100.0
+INV06,Warehouse,20.0

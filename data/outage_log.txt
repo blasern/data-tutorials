@@ -1,0 +1,240 @@
+2023-01-03 20:28 | Feeder F13 tripped at Sotra. 169 customers off supply for 0h08m. Cause: overload.
+2023-01-04 20:34 | Feeder F01 tripped at Flesland. 288 customers off supply for 0h29m. Cause: lightning.
+2023-01-05 11:43 | Feeder F14 tripped at Lindas. 263 customers off supply for 1h01m. Cause: animal.
+2023-01-06 14:03 | Feeder F39 tripped at Arna. 100 customers off supply for 5h28m. Cause: storm.
+2023-01-07 16:43 | Feeder F09 tripped at Voss. 747 customers off supply for 2h41m. Cause: storm.
+2023-01-08 21:23 | Feeder F27 tripped at Osteroy. 1959 customers off supply for 6h22m. Cause: storm.
+2023-01-09 03:37 | Feeder F08 tripped at Os. 88 customers off supply for 1h02m. Cause: storm.
+2023-01-10 18:48 | Feeder F15 tripped at Voss. 74 customers off supply for 1h58m. Cause: animal.
+2023-01-11 11:20 | Feeder F35 tripped at Lindas. 376 customers off supply for 3h06m. Cause: planned maintenance.
+2023-01-12 06:37 | Feeder F36 tripped at Voss. 103 customers off supply for 3h51m. Cause: storm.
+2023-01-13 16:35 | Feeder F28 tripped at Lindas. 110 customers off supply for 0h55m. Cause: lightning.
+2023-01-14 04:23 | Feeder F16 tripped at Flesland. 283 customers off supply for 0h52m. Cause: tree contact.
+2023-01-15 02:43 | Feeder F02 tripped at Osteroy. 583 customers off supply for 3h21m. Cause: equipment fault.
+2023-01-16 01:50 | Feeder F14 tripped at Os. 119 customers off supply for 1h31m. Cause: equipment fault.
+2023-01-17 03:18 | Feeder F11 tripped at Askoy. 384 customers off supply for 1h45m. Cause: overload.
+2023-01-18 18:45 | Feeder F27 tripped at Voss. 47 customers off supply for 0h33m. Cause: overload.
+2023-01-19 17:22 | Feeder F04 tripped at Arna. 147 customers off supply for 1h58m. Cause: lightning.
+2023-01-20 13:41 | Feeder F33 tripped at Osteroy. 358 customers off supply for 1h13m. Cause: tree contact.
+2023-01-21 10:19 | Feeder F18 tripped at Fana. 430 customers off supply for 4h01m. Cause: planned maintenance.
+2023-01-22 18:23 | Feeder F12 tripped at Askoy. 311 customers off supply for 2h35m. Cause: animal.
+2023-01-23 07:43 | Feeder F33 tripped at Arna. 114 customers off supply for 1h46m. Cause: storm.
+2023-01-24 07:40 | Feeder F35 tripped at Fana. 243 customers off supply for 4h59m. Cause: equipment fault.
+2023-01-25 16:22 | Feeder F23 tripped at Bergen Nord. 161 customers off supply for 3h23m. Cause: tree contact.
+2023-01-26 00:29 | Feeder F26 tripped at Bergen Nord. 428 customers off supply for 2h09m. Cause: planned maintenance.
+2023-01-27 08:20 | Feeder F11 tripped at Askoy. 112 customers off supply for 2h21m. Cause: tree contact.
+2023-01-28 01:40 | Feeder F14 tripped at Os. 24 customers off supply for 4h21m. Cause: tree contact.
+2023-01-29 17:39 | Feeder F21 tripped at Lindas. 476 customers off supply for 1h18m. Cause: lightning.
+2023-01-30 03:57 | Feeder F09 tripped at Lindas. 206 customers off supply for 2h43m. Cause: storm.
+2023-01-31 16:39 | Feeder F16 tripped at Sotra. 100 customers off supply for 0h55m. Cause: storm.
+2023-02-01 00:19 | Feeder F27 tripped at Bergen Nord. 84 customers off supply for 2h08m. Cause: lightning.
+2023-02-02 09:05 | Feeder F24 tripped at Lindas. 89 customers off supply for 1h31m. Cause: lightning.
+2023-02-03 13:56 | Feeder F13 tripped at Lindas. 179 customers off supply for 7h37m. Cause: storm.
+2023-02-04 15:46 | Feeder F08 tripped at Arna. 157 customers off supply for 0h26m. Cause: tree contact.
+2023-02-04 22:27 | Feeder F39 tripped at Osteroy. 116 customers off supply for 5h47m. Cause: storm.
+2023-02-06 12:45 | Feeder F29 tripped at Sotra. 475 customers off supply for 3h02m. Cause: equipment fault.
+2023-02-06 18:00 | Feeder F18 tripped at Bergen Nord. 157 customers off supply for 0h32m. Cause: planned maintenance.
+2023-02-08 06:51 | Feeder F01 tripped at Osteroy. 118 customers off supply for 3h27m. Cause: storm.
+2023-02-08 18:35 | Feeder F18 tripped at Lindas. 14 customers off supply for 0h26m. Cause: animal.
+2023-02-10 06:48 | Feeder F20 tripped at Bergen Nord. 84 customers off supply for 0h35m. Cause: storm.
+2023-02-11 12:12 | Feeder F11 tripped at Voss. 83 customers off supply for 0h49m. Cause: equipment fault.
+2023-02-12 10:15 | Feeder F13 tripped at Sotra. 284 customers off supply for 2h07m. Cause: equipment fault.
+2023-02-12 23:53 | Feeder F06 tripped at Os. 66 customers off supply for 0h53m. Cause: tree contact.
+2023-02-14 05:04 | Feeder F25 tripped at Bergen Nord. 429 customers off supply for 2h47m. Cause: storm.
+2023-02-15 12:07 | Feeder F21 tripped at Flesland. 309 customers off supply for 3h31m. Cause: tree contact.
+2023-02-16 08:14 | Feeder F21 tripped at Arna. 388 customers off supply for 3h03m. Cause: storm.
+2023-02-16 15:37 | Feeder F13 tripped at Voss. 100 customers off supply for 0h53m. Cause: storm.
+2023-02-18 04:00 | Feeder F13 tripped at Flesland. 205 customers off supply for 1h43m. Cause: storm.
+2023-02-19 06:24 | Feeder F24 tripped at Os. 282 customers off supply for 0h55m. Cause: tree contact.
+2023-02-19 21:39 | Feeder F17 tripped at Voss. 71 customers off supply for 2h06m. Cause: storm.
+2023-02-21 07:47 | Feeder F13 tripped at Flesland. 154 customers off supply for 0h29m. Cause: tree contact.
+2023-02-22 08:14 | Feeder F10 tripped at Bergen Nord. 89 customers off supply for 1h29m. Cause: tree contact.
+2023-02-22 18:26 | Feeder F36 tripped at Sotra. 426 customers off supply for 0h54m. Cause: lightning.
+2023-02-23 13:02 | Feeder F05 tripped at Bergen Nord. 664 customers off supply for 0h40m. Cause: lightning.
+2023-02-25 01:34 | Feeder F30 tripped at Fana. 124 customers off supply for 3h51m. Cause: storm.
+2023-02-26 07:59 | Feeder F39 tripped at Bergen Nord. 828 customers off supply for 3h14m. Cause: equipment fault.
+2023-02-27 01:47 | Feeder F06 tripped at Arna. 370 customers off supply for 0h52m. Cause: tree contact.
+2023-02-27 10:47 | Feeder F29 tripped at Os. 84 customers off supply for 3h45m. Cause: equipment fault.
+2023-02-28 23:33 | Feeder F17 tripped at Arna. 447 customers off supply for 1h59m. Cause: equipment fault.
+2023-03-02 01:17 | Feeder F32 tripped at Voss. 34 customers off supply for 6h33m. Cause: planned maintenance.
+2023-03-02 13:58 | Feeder F11 tripped at Osteroy. 300 customers off supply for 0h14m. Cause: overload.
+2023-03-04 03:14 | Feeder F37 tripped at Voss. 333 customers off supply for 0h09m. Cause: animal.
+2023-03-05 06:23 | Feeder F11 tripped at Askoy. 689 customers off supply for 4h17m. Cause: storm.
+2023-03-06 00:11 | Feeder F36 tripped at Osteroy. 122 customers off supply for 2h37m. Cause: tree contact.
+2023-03-07 03:19 | Feeder F11 tripped at Osteroy. 52 customers off supply for 3h31m. Cause: tree contact.
+2023-03-08 02:08 | Feeder F36 tripped at Fana. 888 customers off supply for 0h30m. Cause: equipment fault.
+2023-03-08 13:07 | Feeder F25 tripped at Osteroy. 214 customers off supply for 1h47m. Cause: equipment fault.
+2023-03-09 09:02 | Feeder F23 tripped at Voss. 192 customers off supply for 3h21m. Cause: lightning.
+2023-03-10 10:20 | Feeder F34 tripped at Lindas. 1233 customers off supply for 1h16m. Cause: equipment fault.
+2023-03-11 17:16 | Feeder F39 tripped at Lindas. 114 customers off supply for 0h37m. Cause: animal.
+2023-03-12 21:30 | Feeder F05 tripped at Voss. 30 customers off supply for 1h54m. Cause: equipment fault.
+2023-03-14 00:26 | Feeder F22 tripped at Arna. 113 customers off supply for 2h48m. Cause: equipment fault.
+2023-03-15 00:03 | Feeder F06 tripped at Osteroy. 213 customers off supply for 1h26m. Cause: equipment fault.
+2023-03-15 05:13 | Feeder F13 tripped at Voss. 188 customers off supply for 0h28m. Cause: animal.
+2023-03-16 13:42 | Feeder F34 tripped at Voss. 612 customers off supply for 4h33m. Cause: storm.
+2023-03-17 21:20 | Feeder F33 tripped at Voss. 149 customers off supply for 2h32m. Cause: storm.
+2023-03-18 14:46 | Feeder F10 tripped at Fana. 177 customers off supply for 4h06m. Cause: planned maintenance.
+2023-03-20 00:25 | Feeder F01 tripped at Askoy. 409 customers off supply for 1h21m. Cause: tree contact.
+2023-03-20 22:34 | Feeder F35 tripped at Voss. 100 customers off supply for 0h55m. Cause: lightning.
+2023-03-21 18:46 | Feeder F31 tripped at Bergen Nord. 118 customers off supply for 2h20m. Cause: storm.
+2023-03-22 23:30 | Feeder F36 tripped at Voss. 136 customers off supply for 1h38m. Cause: tree contact.
+2023-03-23 02:43 | Feeder F23 tripped at Fana. 49 customers off supply for 1h33m. Cause: storm.
+2023-03-24 08:15 | Feeder F09 tripped at Arna. 146 customers off supply for 1h50m. Cause: tree contact.
+2023-03-25 03:34 | Feeder F34 tripped at Lindas. 194 customers off supply for 1h24m. Cause: tree contact.
+2023-03-26 16:40 | Feeder F04 tripped at Voss. 65 customers off supply for 0h40m. Cause: tree contact.
+2023-03-27 11:48 | Feeder F13 tripped at Lindas. 339 customers off supply for 7h22m. Cause: planned maintenance.
+2023-03-28 06:50 | Feeder F21 tripped at Fana. 81 customers off supply for 1h10m. Cause: overload.
+2023-03-29 04:49 | Feeder F18 tripped at Osteroy. 574 customers off supply for 0h31m. Cause: tree contact.
+2023-03-30 06:42 | Feeder F03 tripped at Bergen Nord. 186 customers off supply for 2h22m. Cause: tree contact.
+2023-03-31 00:12 | Feeder F13 tripped at Flesland. 85 customers off supply for 8h54m. Cause: equipment fault.
+2023-04-01 07:33 | Feeder F12 tripped at Bergen Nord. 150 customers off supply for 0h36m. Cause: tree contact.
+2023-04-02 11:55 | Feeder F15 tripped at Lindas. 83 customers off supply for 1h33m. Cause: animal.
+2023-04-03 12:04 | Feeder F03 tripped at Fana. 333 customers off supply for 2h07m. Cause: storm.
+2023-04-04 05:42 | Feeder F11 tripped at Lindas. 135 customers off supply for 1h07m. Cause: lightning.
+2023-04-05 05:17 | Feeder F17 tripped at Voss. 119 customers off supply for 1h14m. Cause: equipment fault.
+2023-04-05 23:19 | Feeder F02 tripped at Fana. 658 customers off supply for 1h42m. Cause: equipment fault.
+2023-04-07 06:17 | Feeder F14 tripped at Bergen Nord. 288 customers off supply for 1h06m. Cause: equipment fault.
+2023-04-08 07:57 | Feeder F16 tripped at Sotra. 104 customers off supply for 0h51m. Cause: planned maintenance.
+2023-04-09 06:06 | Feeder F36 tripped at Lindas. 476 customers off supply for 0h51m. Cause: lightning.
+2023-04-10 13:01 | Feeder F21 tripped at Os. 149 customers off supply for 2h01m. Cause: equipment fault.
+2023-04-11 04:09 | Feeder F01 tripped at Arna. 153 customers off supply for 1h18m. Cause: equipment fault.
+2023-04-12 11:38 | Feeder F05 tripped at Flesland. 118 customers off supply for 2h15m. Cause: storm.
+2023-04-12 20:18 | Feeder F05 tripped at Osteroy. 93 customers off supply for 0h44m. Cause: storm.
+2023-04-14 08:05 | Feeder F10 tripped at Arna. 312 customers off supply for 1h00m. Cause: storm.
+2023-04-15 13:39 | Feeder F24 tripped at Bergen Nord. 282 customers off supply for 1h48m. Cause: storm.
+2023-04-16 03:48 | Feeder F17 tripped at Askoy. 68 customers off supply for 0h25m. Cause: lightning.
+2023-04-16 23:08 | Feeder F09 tripped at Lindas. 291 customers off supply for 1h28m. Cause: equipment fault.
+2023-04-18 02:13 | Feeder F01 tripped at Os. 199 customers off supply for 0h47m. Cause: overload.
+2023-04-18 23:46 | Feeder F31 tripped at Fana. 1171 customers off supply for 1h09m. Cause: equipment fault.
+2023-04-19 23:41 | Feeder F33 tripped at Bergen Nord. 1517 customers off supply for 1h53m. Cause: equipment fault.
+2023-04-21 00:53 | Feeder F26 tripped at Flesland. 200 customers off supply for 1h12m. Cause: planned maintenance.
+2023-04-22 08:01 | Feeder F27 tripped at Osteroy. 103 customers off supply for 0h35m. Cause: storm.
+2023-04-23 01:31 | Feeder F13 tripped at Flesland. 217 customers off supply for 1h42m. Cause: planned maintenance.
+2023-04-24 11:16 | Feeder F02 tripped at Voss. 223 customers off supply for 1h14m. Cause: equipment fault.
+2023-04-25 11:51 | Feeder F04 tripped at Osteroy. 24 customers off supply for 3h18m. Cause: planned maintenance.
+2023-04-26 06:08 | Feeder F06 tripped at Arna. 508 customers off supply for 3h03m. Cause: planned maintenance.
+2023-04-27 09:05 | Feeder F08 tripped at Lindas. 141 customers off supply for 0h13m. Cause: animal.
+2023-04-28 08:53 | Feeder F13 tripped at Lindas. 454 customers off supply for 3h01m. Cause: storm.
+2023-04-28 15:08 | Feeder F03 tripped at Flesland. 258 customers off supply for 2h02m. Cause: storm.
+2023-04-29 15:35 | Feeder F12 tripped at Sotra. 618 customers off supply for 0h50m. Cause: lightning.
+2023-04-30 21:27 | Feeder F11 tripped at Flesland. 34 customers off supply for 0h38m. Cause: overload.
+2023-05-02 00:12 | Feeder F38 tripped at Bergen Nord. 89 customers off supply for 3h17m. Cause: equipment fault.
+2023-05-03 03:17 | Feeder F28 tripped at Osteroy. 643 customers off supply for 1h12m. Cause: overload.
+2023-05-03 21:39 | Feeder F11 tripped at Askoy. 244 customers off supply for 3h27m. Cause: planned maintenance.
+2023-05-05 07:21 | Feeder F04 tripped at Sotra. 338 customers off supply for 0h44m. Cause: lightning.
+2023-05-06 07:21 | Feeder F23 tripped at Bergen Nord. 410 customers off supply for 1h12m. Cause: animal.
+2023-05-06 20:53 | Feeder F01 tripped at Arna. 119 customers off supply for 0h06m. Cause: overload.
+2023-05-08 00:40 | Feeder F15 tripped at Lindas. 127 customers off supply for 0h51m. Cause: lightning.
+2023-05-09 07:53 | Feeder F25 tripped at Arna. 281 customers off supply for 0h44m. Cause: overload.
+2023-05-09 13:41 | Feeder F37 tripped at Voss. 106 customers off supply for 0h34m. Cause: animal.
+2023-05-10 11:14 | Feeder F27 tripped at Bergen Nord. 232 customers off supply for 4h49m. Cause: tree contact.
+2023-05-12 06:23 | Feeder F02 tripped at Lindas. 259 customers off supply for 1h41m. Cause: storm.
+2023-05-12 22:28 | Feeder F07 tripped at Askoy. 833 customers off supply for 2h15m. Cause: storm.
+2023-05-13 11:25 | Feeder F21 tripped at Bergen Nord. 170 customers off supply for 0h08m. Cause: animal.
+2023-05-14 22:51 | Feeder F10 tripped at Bergen Nord. 172 customers off supply for 0h46m. Cause: tree contact.
+2023-05-15 10:55 | Feeder F30 tripped at Os. 90 customers off supply for 4h21m. Cause: storm.
+2023-05-17 00:07 | Feeder F34 tripped at Bergen Nord. 172 customers off supply for 0h22m. Cause: lightning.
+2023-05-17 17:31 | Feeder F34 tripped at Os. 104 customers off supply for 1h57m. Cause: storm.
+2023-05-18 16:35 | Feeder F16 tripped at Fana. 52 customers off supply for 3h03m. Cause: storm.
+2023-05-19 23:30 | Feeder F16 tripped at Askoy. 96 customers off supply for 2h19m. Cause: storm.
+2023-05-20 13:39 | Feeder F23 tripped at Arna. 158 customers off supply for 0h51m. Cause: tree contact.
+2023-05-21 23:48 | Feeder F30 tripped at Osteroy. 572 customers off supply for 0h28m. Cause: lightning.
+2023-05-22 13:08 | Feeder F34 tripped at Bergen Nord. 355 customers off supply for 1h07m. Cause: lightning.
+2023-05-23 14:10 | Feeder F14 tripped at Osteroy. 1488 customers off supply for 0h39m. Cause: storm.
+2023-05-24 11:51 | Feeder F34 tripped at Os. 193 customers off supply for 1h15m. Cause: equipment fault.
+2023-05-25 15:32 | Feeder F33 tripped at Lindas. 203 customers off supply for 0h48m. Cause: equipment fault.
+2023-05-26 11:11 | Feeder F39 tripped at Arna. 68 customers off supply for 8h49m. Cause: storm.
+2023-05-27 19:40 | Feeder F33 tripped at Voss. 272 customers off supply for 0h38m. Cause: overload.
+2023-05-28 11:20 | Feeder F21 tripped at Sotra. 281 customers off supply for 0h12m. Cause: overload.
+2023-05-29 18:56 | Feeder F38 tripped at Arna. 1040 customers off supply for 1h54m. Cause: planned maintenance.
+2023-05-30 20:32 | Feeder F03 tripped at Flesland. 311 customers off supply for 1h45m. Cause: tree contact.
+2023-05-31 16:10 | Feeder F09 tripped at Osteroy. 398 customers off supply for 2h28m. Cause: equipment fault.
+2023-06-01 14:40 | Feeder F22 tripped at Os. 264 customers off supply for 5h38m. Cause: storm.
+2023-06-02 02:38 | Feeder F27 tripped at Lindas. 56 customers off supply for 0h32m. Cause: lightning.
+2023-06-03 22:51 | Feeder F28 tripped at Sotra. 322 customers off supply for 3h12m. Cause: tree contact.
+2023-06-04 06:32 | Feeder F02 tripped at Flesland. 887 customers off supply for 1h26m. Cause: tree contact.
+2023-06-05 23:01 | Feeder F28 tripped at Lindas. 134 customers off supply for 2h16m. Cause: equipment fault.
+2023-06-06 21:09 | Feeder F08 tripped at Fana. 80 customers off supply for 0h19m. Cause: lightning.
+2023-06-07 05:17 | Feeder F39 tripped at Os. 552 customers off supply for 0h57m. Cause: tree contact.
+2023-06-08 17:50 | Feeder F10 tripped at Flesland. 87 customers off supply for 2h45m. Cause: tree contact.
+2023-06-09 14:46 | Feeder F29 tripped at Fana. 82 customers off supply for 1h12m. Cause: lightning.
+2023-06-10 13:52 | Feeder F34 tripped at Lindas. 130 customers off supply for 3h47m. Cause: equipment fault.
+2023-06-11 16:16 | Feeder F30 tripped at Arna. 168 customers off supply for 0h49m. Cause: overload.
+2023-06-12 18:33 | Feeder F03 tripped at Sotra. 67 customers off supply for 0h53m. Cause: storm.
+2023-06-13 10:15 | Feeder F05 tripped at Voss. 523 customers off supply for 1h01m. Cause: equipment fault.
+2023-06-14 07:29 | Feeder F27 tripped at Lindas. 65 customers off supply for 0h18m. Cause: animal.
+2023-06-15 08:51 | Feeder F15 tripped at Askoy. 133 customers off supply for 2h58m. Cause: equipment fault.
+2023-06-16 08:33 | Feeder F02 tripped at Sotra. 407 customers off supply for 1h32m. Cause: storm.
+2023-06-17 00:10 | Feeder F28 tripped at Flesland. 471 customers off supply for 3h16m. Cause: storm.
+2023-06-18 03:41 | Feeder F14 tripped at Osteroy. 396 customers off supply for 1h07m. Cause: overload.
+2023-06-19 06:43 | Feeder F37 tripped at Voss. 92 customers off supply for 0h28m. Cause: lightning.
+2023-06-20 06:39 | Feeder F30 tripped at Osteroy. 15 customers off supply for 0h25m. Cause: animal.
+2023-06-21 06:57 | Feeder F34 tripped at Voss. 105 customers off supply for 1h43m. Cause: storm.
+2023-06-22 15:39 | Feeder F28 tripped at Fana. 373 customers off supply for 1h52m. Cause: equipment fault.
+2023-06-23 07:12 | Feeder F13 tripped at Os. 219 customers off supply for 0h39m. Cause: lightning.
+2023-06-24 02:31 | Feeder F30 tripped at Flesland. 342 customers off supply for 3h35m. Cause: storm.
+2023-06-25 02:55 | Feeder F23 tripped at Lindas. 771 customers off supply for 1h16m. Cause: lightning.
+2023-06-26 12:29 | Feeder F29 tripped at Askoy. 76 customers off supply for 0h06m. Cause: lightning.
+2023-06-27 09:10 | Feeder F24 tripped at Arna. 487 customers off supply for 3h57m. Cause: storm.
+2023-06-27 20:39 | Feeder F01 tripped at Askoy. 102 customers off supply for 0h21m. Cause: overload.
+2023-06-28 18:13 | Feeder F32 tripped at Flesland. 1047 customers off supply for 0h18m. Cause: animal.
+2023-06-30 05:23 | Feeder F21 tripped at Flesland. 196 customers off supply for 1h54m. Cause: storm.
+2023-06-30 21:57 | Feeder F18 tripped at Voss. 122 customers off supply for 2h42m. Cause: storm.
+2023-07-02 00:51 | Feeder F05 tripped at Flesland. 215 customers off supply for 2h57m. Cause: equipment fault.
+2023-07-02 21:18 | Feeder F39 tripped at Fana. 495 customers off supply for 1h04m. Cause: planned maintenance.
+2023-07-04 00:26 | Feeder F02 tripped at Osteroy. 53 customers off supply for 2h04m. Cause: equipment fault.
+2023-07-05 12:44 | Feeder F37 tripped at Arna. 124 customers off supply for 4h09m. Cause: storm.
+2023-07-06 00:22 | Feeder F18 tripped at Flesland. 16 customers off supply for 0h49m. Cause: storm.
+2023-07-07 07:34 | Feeder F16 tripped at Lindas. 62 customers off supply for 1h00m. Cause: storm.
+2023-07-07 23:36 | Feeder F26 tripped at Os. 265 customers off supply for 2h11m. Cause: equipment fault.
+2023-07-09 10:24 | Feeder F09 tripped at Lindas. 110 customers off supply for 0h42m. Cause: storm.
+2023-07-09 20:57 | Feeder F09 tripped at Voss. 162 customers off supply for 1h20m. Cause: storm.
+2023-07-11 03:48 | Feeder F05 tripped at Flesland. 212 customers off supply for 1h32m. Cause: animal.
+2023-07-12 01:03 | Feeder F25 tripped at Sotra. 229 customers off supply for 0h35m. Cause: lightning.
+2023-07-12 22:50 | Feeder F33 tripped at Sotra. 22 customers off supply for 6h05m. Cause: equipment fault.
+2023-07-14 03:39 | Feeder F28 tripped at Fana. 162 customers off supply for 1h38m. Cause: equipment fault.
+2023-07-15 03:36 | Feeder F06 tripped at Fana. 174 customers off supply for 1h09m. Cause: tree contact.
+2023-07-15 20:31 | Feeder F24 tripped at Fana. 86 customers off supply for 0h33m. Cause: equipment fault.
+2023-07-17 06:32 | Feeder F32 tripped at Arna. 89 customers off supply for 5h30m. Cause: tree contact.
+2023-07-17 12:54 | Feeder F25 tripped at Fana. 37 customers off supply for 2h08m. Cause: equipment fault.
+2023-07-18 23:42 | Feeder F03 tripped at Os. 107 customers off supply for 1h16m. Cause: tree contact.
+2023-07-19 10:39 | Feeder F18 tripped at Lindas. 211 customers off supply for 1h35m. Cause: storm.
+2023-07-20 20:17 | Feeder F32 tripped at Os. 206 customers off supply for 2h17m. Cause: overload.
+2023-07-21 11:42 | Feeder F34 tripped at Voss. 49 customers off supply for 2h53m. Cause: equipment fault.
+2023-07-22 20:24 | Feeder F09 tripped at Sotra. 183 customers off supply for 5h19m. Cause: tree contact.
+2023-07-23 23:20 | Feeder F24 tripped at Bergen Nord. 277 customers off supply for 0h38m. Cause: animal.
+2023-07-24 16:03 | Feeder F20 tripped at Os. 374 customers off supply for 0h34m. Cause: lightning.
+2023-07-25 17:42 | Feeder F07 tripped at Askoy. 33 customers off supply for 1h29m. Cause: tree contact.
+2023-07-26 21:06 | Feeder F04 tripped at Fana. 76 customers off supply for 1h11m. Cause: storm.
+2023-07-27 09:09 | Feeder F15 tripped at Osteroy. 95 customers off supply for 0h12m. Cause: lightning.
+2023-07-28 20:55 | Feeder F28 tripped at Sotra. 396 customers off supply for 2h16m. Cause: equipment fault.
+2023-07-29 14:14 | Feeder F17 tripped at Lindas. 17 customers off supply for 2h06m. Cause: tree contact.
+2023-07-30 08:03 | Feeder F05 tripped at Bergen Nord. 251 customers off supply for 0h15m. Cause: lightning.
+2023-07-31 14:13 | Feeder F13 tripped at Voss. 2273 customers off supply for 2h50m. Cause: storm.
+2023-08-01 23:24 | Feeder F31 tripped at Osteroy. 146 customers off supply for 2h08m. Cause: planned maintenance.
+2023-08-02 23:05 | Feeder F20 tripped at Os. 163 customers off supply for 1h08m. Cause: animal.
+2023-08-03 22:02 | Feeder F28 tripped at Askoy. 287 customers off supply for 0h05m. Cause: animal.
+2023-08-04 06:39 | Feeder F19 tripped at Flesland. 31 customers off supply for 0h54m. Cause: lightning.
+2023-08-05 21:06 | Feeder F24 tripped at Fana. 809 customers off supply for 1h11m. Cause: tree contact.
+2023-08-06 13:57 | Feeder F17 tripped at Lindas. 29 customers off supply for 1h20m. Cause: lightning.
+2023-08-07 19:11 | Feeder F16 tripped at Arna. 69 customers off supply for 2h45m. Cause: lightning.
+2023-08-08 23:10 | Feeder F21 tripped at Arna. 29 customers off supply for 0h47m. Cause: equipment fault.
+2023-08-09 09:34 | Feeder F23 tripped at Voss. 43 customers off supply for 4h12m. Cause: storm.
+2023-08-10 07:24 | Feeder F03 tripped at Askoy. 12 customers off supply for 0h30m. Cause: animal.
+2023-08-11 20:30 | Feeder F39 tripped at Bergen Nord. 112 customers off supply for 2h44m. Cause: equipment fault.
+2023-08-12 04:19 | Feeder F02 tripped at Lindas. 1170 customers off supply for 1h52m. Cause: tree contact.
+2023-08-13 16:36 | Feeder F39 tripped at Fana. 117 customers off supply for 1h18m. Cause: equipment fault.
+2023-08-14 18:06 | Feeder F36 tripped at Arna. 1102 customers off supply for 3h28m. Cause: storm.
+2023-08-15 16:16 | Feeder F23 tripped at Lindas. 670 customers off supply for 2h56m. Cause: tree contact.
+2023-08-16 11:31 | Feeder F03 tripped at Askoy. 44 customers off supply for 4h31m. Cause: storm.
+2023-08-17 04:58 | Feeder F05 tripped at Sotra. 117 customers off supply for 2h13m. Cause: tree contact.
+2023-08-18 15:01 | Feeder F28 tripped at Arna. 531 customers off supply for 0h36m. Cause: animal.
+2023-08-19 07:58 | Feeder F28 tripped at Askoy. 363 customers off supply for 0h48m. Cause: tree contact.
+2023-08-20 05:08 | Feeder F31 tripped at Arna. 153 customers off supply for 1h33m. Cause: equipment fault.
+2023-08-21 09:39 | Feeder F21 tripped at Sotra. 330 customers off supply for 3h02m. Cause: equipment fault.
+2023-08-22 03:43 | Feeder F35 tripped at Sotra. 288 customers off supply for 2h37m. Cause: storm.
+2023-08-22 23:55 | Feeder F25 tripped at Lindas. 32 customers off supply for 0h28m. Cause: tree contact.
+2023-08-24 15:04 | Feeder F36 tripped at Fana. 737 customers off supply for 0h38m. Cause: animal.
+2023-08-25 10:05 | Feeder F11 tripped at Flesland. 133 customers off supply for 0h54m. Cause: equipment fault.
+2023-08-26 10:34 | Feeder F08 tripped at Lindas. 101 customers off supply for 0h49m. Cause: overload.
+2023-08-27 13:45 | Feeder F23 tripped at Bergen Nord. 32 customers off supply for 0h38m. Cause: animal.
